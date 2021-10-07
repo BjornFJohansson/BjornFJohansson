@@ -1,18 +1,10 @@
 Hi, I am Björn Johansson, :smiley:
 
-I am an assistant Professor at the Department of Biology, University of Minho where I teach and do research.
+I am an assistant Professor at the Department of Biology, University of Minho where I teach and do research. Yeast physiology, molecular biology and biotechnology makes my day :heartpulse:! I am also a passionate self-taught Python :snake: programmer.
 
-Yeast physiology, molecular biology and biotechnology makes my day :heartpulse:! 
+Outside biology :biohazard:, I am interested in bioiformatics and [open reproducible science](https://datascience.stanford.edu/news/center-open-and-reproducible-science-cores-fall-lecture-series). Look at our group [website](https://metabolicengineeringgroupcbma.github.io) for more information. I am also an open-source software enthusiast using Linux on the desktop since 2007.
 
-I am also a passionate self-taught Python :snake: programmer.
-
-Outside biology :biohazard:, I am interested in bioiformatics and [open reproducible science](https://datascience.stanford.edu/news/center-open-and-reproducible-science-cores-fall-lecture-series).
-
-Look at our group [website](https://metabolicengineeringgroupcbma.github.io) for more information.
-
-I am also an open-source software enthusiast using Linux on the desktop since 2007.
-
-I am Swedish, but reside in Portugal for many years. On my free time, I try to run :runner: as much as I can, look me up on [runkeeper](https://runkeeper.com)
+I am Swedish, but reside in Portugal for many years. On my free time, I try to run :runner: as much as I can, I am on [runkeeper](https://runkeeper.com).
 
 
 

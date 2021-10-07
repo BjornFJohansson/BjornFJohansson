@@ -1,11 +1,18 @@
-I am from Malmö, Sweden, living in Braga, Portugal since 2002. I work as an assistant Professor at the University of Minho
-at the department of Biology.
+Hi, I am Björn Johansson, :smiley:
 
-I work in yeast biotechnology, but I do software development with Python on the side. 
+I am an assistant Professor at the Department of Biology, University of Minho where I teach and do research.
 
+Yeast physiology, molecular biology and biotechnology makes my day :heartpulse:! 
 
+I am also a passionate self-taught Python :snake: programmer.
 
+Outside biology :biohazard:, I am interested in bioiformatics and [open reproducible science](https://datascience.stanford.edu/news/center-open-and-reproducible-science-cores-fall-lecture-series).
 
+Look at our group [website](https://metabolicengineeringgroupcbma.github.io) for more information.
+
+I am also an open-source software enthusiast using Linux on the desktop since 2007.
+
+I am Swedish, but reside in Portugal for many years. On my free time, I try to run :runner: as much as I can, look me up on [runkeeper](https://runkeeper.com)
 
 
 

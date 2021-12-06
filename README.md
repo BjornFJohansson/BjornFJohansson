@@ -2,10 +2,12 @@ Hi, I am Björn Johansson, assistant Professor at the Department of Biology, Uni
 
 Outside biology, I am interested in bioinformatics and [open reproducible science](https://datascience.stanford.edu/news/center-open-and-reproducible-science-cores-fall-lecture-series). Look at our group [website](https://metabolicengineeringgroupcbma.github.io) for more information. I am also an open-source software enthusiast using Linux on the desktop since 2007.
 
-I am Swedish, but reside in Portugal for many years. On my free time, I try to run :runner: as much as I can, I am on [runkeeper](https://runkeeper.com).
+I reside in Portugal for many years. On my free time, I try to run :runner: as much as I can, I am on [runkeeper](https://runkeeper.com).
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjornfjohansson)](https://github.com/anuraghazra/github-readme-stats)
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BjornFJohansson.BjornFJohansson)
 
 <!--
 **BjornFJohansson/BjornFJohansson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -5,7 +5,7 @@ Outside biology, I am interested in bioinformatics and [open reproducible scienc
 I reside in Portugal for many years. On my free time, I try to run :runner: as much as I can, I am on [runkeeper](https://runkeeper.com).
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjornfjohansson)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjornfjohansson)
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BjornFJohansson.BjornFJohansson)

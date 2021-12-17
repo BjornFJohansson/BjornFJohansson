@@ -8,8 +8,6 @@ I reside in Portugal for many years. On my free time, I try to run :runner: as m
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjornfjohansson)
 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BjornFJohansson.BjornFJohansson)
-
 <!--
 **BjornFJohansson/BjornFJohansson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

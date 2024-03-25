@@ -2,7 +2,7 @@ Hi, I am Björn Johansson, assistant Professor at the Department of Biology, Uni
 
 Outside biology, I am interested in bioinformatics and [open reproducible science](https://datascience.stanford.edu/news/center-open-and-reproducible-science-cores-fall-lecture-series). Look at our group [website](https://metabolicengineeringgroupcbma.github.io) for more information. I am also an open-source software enthusiast, using Linux on the desktop since 2007.
 
-I reside in Portugal in the old roman city of [Braga](https://en.wikipedia.org/wiki/Braga) since 2002.
+I live in Portugal in the old roman city of [Braga](https://en.wikipedia.org/wiki/Braga) since 2002.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjornfjohansson)
